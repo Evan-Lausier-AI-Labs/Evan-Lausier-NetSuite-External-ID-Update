@@ -1,2 +1,3 @@
 # NetSuite-External-ID-Update
-Evan Lausier - scripted external id update 
+Author: Evan Lausier
+NetSuite Scripted Solutions - scripted external id update 
